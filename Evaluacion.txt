@@ -1,2 +1,4 @@
 Jean Pierre
 Giron Rodriguez
+Java, Python, JavaScript, CSS
+MySql, Sql Server
